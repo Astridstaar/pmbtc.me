@@ -1,0 +1,33 @@
+@font-face {
+	font-family: 'PT Sans Regular';
+	src: url('../fonts/trebucbd.eot.html');
+	src: url('http://pmbtc.me/fonts/trebucbd.woff') format('woff'), url('../fonts/PTS55F.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'PT Sans Bold';
+	src: url('http://pmbtc.me/fonts/trebucbi.eot');
+	src: url('http://pmbtc.me/fonts/trebucbi.woff') format('woff'), url('../fonts/PTS75F.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'PT Sans Italic';
+	src: url('http://pmbtc.me/fonts/trebuc.eot');
+	src: url('../fonts/trebuc.woff.html') format('woff'), url('../fonts/PTS56F.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+  font-family: 'PT Sans Bold Italic';
+  src: url('http://pmbtc.me/fonts/Taurus-Normal.eot?#iefix') format('embedded-opentype'),  url('http://pmbtc.me/fonts/Taurus-Normal.woff') format('woff'), url('../fonts/PTS76F.ttf')  format('truetype'), url('http://pmbtc.me/fonts/Taurus-Normal.svg#Taurus-Normal') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ManiaExtendetC Regular';
+  src: url('http://pmbtc.me/fonts/Taurus-Normal.eot?#iefix') format('embedded-opentype'),  url('http://pmbtc.me/fonts/Taurus-Normal.woff') format('woff'), url('../fonts/ManiaExtendedC.otf')  format('truetype'), url('http://pmbtc.me/fonts/Taurus-Normal.svg#Taurus-Normal') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
